@@ -12,9 +12,9 @@ There are other public sources of this material available on the internet.
 
 | Primary Source    | Secondary Source           | Ultimate Source *        |
 |:-----------------:|:--------------------------:|:------------------------:|
-|      [eblong.com] | [Historical Source (copy)] | [Infocom Sources (copy)] |
+|        [zip file] | [Historical Source (copy)] | [Infocom Sources (copy)] |
 
-[eblong.com]: https://eblong.com/infocom/sources/amfv-r77.zip
+[zip file]: https://eblong.com/infocom/sources/amfv-r77.zip
 [Historical Source (copy)]: https://github.com/zil-legacy/amfv-historicalsource/tree/c7d6edc25a72387beb17b56a2775ffed2d4da027
 [Infocom Sources (copy)]: https://github.com/zil-legacy/infocom-sources/tree/master/development/old/s5/r77
 
